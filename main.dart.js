@@ -29215,7 +29215,7 @@ A.u7.prototype={$iKm:1}
 A.a80.prototype={
 gQy(){var s=this.b
 s=s==null?null:s.canvasKitBaseUrl
-return s==null?"https://npm.elemecdn.com/canvaskit-wasm@0.24.0/bin/":s},
+return s==null?"https://unpkg.com/canvaskit-wasm@0.37.1/bin/":s},
 gQz(){var s=this.b
 s=s==null?null:s.canvasKitForceCpuOnly
 return s===!0},
